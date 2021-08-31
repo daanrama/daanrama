@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daanrama
-- 👀 I’m interested in Networking, Web Developer, Laravel
+- 👀 I’m interested in Networking, Web Developer, and Laravel
 - 🌱 I’m currently learning in Sumatra Institute of Technology
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me (daanrama0@gmail.com)
